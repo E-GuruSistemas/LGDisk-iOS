@@ -1,1 +1,0 @@
-.gitroyalty/Package.swift
